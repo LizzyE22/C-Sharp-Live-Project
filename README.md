@@ -6,4 +6,11 @@ I enjoyed working on a team and having the opportunity to fix bugs, clean up cod
 ## **Front-End Stories**
 
 ## **Style the About page (Main Site)**
-I was tasked with creating a new [About]() page for Theatre Vertigo. I created a new view in the Home View folder for the About page and styled the page using HTML and [CSS](). I applied the requirement to include a [color-palette]() provided by Theatre Vertigo, and designed the page to blend with the main portion of the website. Button styles, containers, and hover effects I created match those used in other areas of the website for consistency.
+I was tasked with creating a new [About]() page for Theatre Vertigo. I created a new view in the Home View folder for the About page and styled the page according to a mockup supplied by another UI/UX developer, recreating their design using HTML and [CSS](). I applied the requirement to include a [color-palette]() provided by Theatre Vertigo, and designed the page to blend with the main portion of the website. Button styles, containers, and hover effects I created match those used in other areas of the website for styling consistency.
+
+## **Rental area CRUD pages:**
+
+## **Style the Create and Edit Pages**
+I styled the Create and Edit pages by adding headers above the forms, and designed the “Submit” and “Back to List” buttons by adding effects and matching the webiste color theme. I also included placeholders for each input field, centered the forms on the page, and was able to do some code cleanup on this story. I designed each input field so when clicked, the border color and background color changes to match the color palette provided for this project.
+
+
